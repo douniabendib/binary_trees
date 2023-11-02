@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_is_leaf_2 - a function that checks if a node is a leaf
+ * binary_tree_is_leaf_II - a function that checks if a node is a leaf
  * @node: is a pointer to the node to check
  * Return: return 1 if node is a leaf, otherwise 0
  */
@@ -10,7 +10,7 @@ int binary_tree_is_leaf_II(const binary_tree_t *node)
 }
 
 /**
- * binary_tree_height_2 - a function that measures
+ * binary_tree_height_II - a function that measures
  * the height of a binary tree
  * @tree:  is a pointer to the root node of the
  * tree to measure the height.
